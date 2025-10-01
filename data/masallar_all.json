@@ -1,1 +1,182 @@
-{"metadata":{"dil":"tr-TR","yas_katmanlari":["3-5","6-8","9-12","12+"],"hedef_okuma_suresi_dakika":">=5","toplam_kategori":15,"toplam_masal":1500,"aciklama":"Her kategori 100 masal içerir. Kapak görselleri: prompt, Google/Openverse/Unsplash arama linkleri."},"kategoriler":{"Klasik Türk":[],"Dünya Masalları":[],"Kahramanlık":[],"Hayvan":[],"Aşk & Sevgi":[],"Bilgeli":[],"Komik":[],"Çocuk":[],"Öğretici":[],"Mitolojik":[],"Keloğlan":[],"Prenses & Kral":[],"Doğa & Evren":[],"Macera":[],"Arkadaşlık":[]}}
+{
+  "metadata": {
+    "dil": "tr-TR",
+    "yas_katmanlari": ["3-5", "6-8", "9-12", "12+"],
+    "hedef_okuma_suresi_dakika": ">=5",
+    "toplam_kategori": 15,
+    "toplam_masal": 1500,
+    "aciklama": "Her kategori 100 masal içerir. Kapak görselleri: prompt, Google/Openverse/Unsplash arama linkleri."
+  },
+  "kategoriler": {
+    "Klasik Türk": [
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Hoca ve Ters Dönen Değirmen",
+        "konu": "Kasabanın yel değirmeni rüzgâr ters estiğinde durur; Hoca, köylüye işbirliğiyle rüzgârı okumayı öğretir.",
+        "hikaye": "Köyün tepesindeki yel değirmeni rüzgârın dilinden anlardı; ama bir haftadır kanatları ters dönüyor, taş un yerine hüzün öğütüyordu. Köylü, 'Uğursuzluk çöktü,' diye homurdanırken Nasreddin Hoca değirmen taşına kulak verdi. 'Rüzgâr ters esince değirmen de ters döner,' dedi, 'ama biz de aklımızı tersine çevirirsek yol buluruz.' Çocuklara bayraklar, kadınlara renkli tülbentler, gençlere rüzgâr çanları dağıttı. 'Tepeye dizilin; rüzgârın yönünü renkle, sesle gösterin.' Akşamüstü köy, gökyüzüne asılmış bir halı gibi dalgalandı. Hoca, kanatların açısını değiştirdi, çarkların pasını çözdü. İlk un, güneş batarken döküldü. Hoca gülümsedi: 'Rüzgârın niyeti yoktur; niyeti olan biziz.' O günden sonra köy, her mevsim rüzgârı okumayı öğrendi; değirmen hiç ters dönmedi, dönse de köylü tersine gülmeyi bildi.",
+        "yas_araligi": "6-8",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Anatolian windmill on a hill, Nasreddin Hodja adjusting the sails, villagers with colorful scarves showing wind direction, warm folkloric watercolor",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=Anatolian+windmill+Nasreddin+Hodja+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=anatolian%20windmill%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/windmill-hill"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Sarı Sazın Sırrı",
+        "konu": "Yoksul bir delikanlı, dedesinden kalan sazla köyün dertlerini dinleyip barışı geri getirir.",
+        "hikaye": "Dedesinden kalan sarı saz, Ali’nin tek mirasıydı. Teline dokununca rüzgâr durur, kuşlar susardı. Bir yaz, iki mahalle çeşme suyuna kavga etti; sözü ağır olanlar bile birbirini duymadı. Ali geceleyin meydanda sazını çaldı; ezgi, kavgalı kapıların eşiğinden içeri süzülüp herkesin yüreğine ayrı bir hikâye anlattı. Ertesi gün Ali, 'Sazım şunu söylüyor: Paylaşılmayan su, zehir olur,' dedi. Yaşlılar, 'Sazın dili doğrudur,' diye baş salladı. Çeşmeye iki ayrı oluk yapıldı; fakat Ali sazı yerine kaldırmadı: 'Barışın sesi susarsa kavga büyür.' O günden sonra sarı saz, her düğünde, her harmanda çalındı; kapılar, sazın sesiyle açıldı.",
+        "yas_araligi": "9-12",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Young man playing a yellow saz in an Anatolian village square at night, doors half-open, peace returning, starry sky, warm tones",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=Anatolian+boy+playing+saz+night+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=saz%20turkish%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/saz"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Üç Taşlı Han",
+        "konu": "Kervan yolundaki hanın eşiğindeki üç taş, gelenlerin niyetini açığa çıkarır.",
+        "hikaye": "Dağ ile ova arasında, yolu düşenin sığındığı bir han vardı; eşiğinde üç taş: misafirlik, emek, hakkaniyet. Usta hanıcı, 'İlk taşı görmeyen içeri girmesin,' diye yazmıştı kapıya. Bir gece yağmur bardaktan boşalırcasına yağarken bir yolcu koştu; ilk taşa takıldı, yere kapaklandı. Hanıcı gülümsedi: 'Niyetin acele, gönlün yorgun.' Yolcu içini döktü, ekmeğini paylaştı. Ertesi gün bir zengin geçti; taşları görmezden gelip bağırdı: 'Bana en iyi oda!' Hanın ışıkları sönük kaldı. Hanıcı, 'Üç taşın birini bile atlayanın ışığı eksik yanar,' dedi. Zengin dışarı çıktı, taşlara baktı, eliyle yokladı, alnını dokundurdu. Geri döndüğünde sesinin perdesi alçalmıştı. Han o gece tam yandı, herkes aynı sofrada doydu.",
+        "yas_araligi": "9-12",
+        "okuma_suresi_dakika": 6,
+        "kapak_fotografi": {
+          "prompt": "Old Anatolian caravanserai entrance with three carved stones at the threshold, rain night, warm lantern light, travelers approaching",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=caravanserai+Anatolia+night+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=caravanserai%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/caravanserai"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Bakır İbrik ve Misafirlik",
+        "konu": "Eski bir bakır ibrik, köyde misafirlik adabını hatırlatır.",
+        "hikaye": "Köyün çeşme başında bakır bir ibrik asılıydı; 'Yolcunun suyu' yazardı kulpunda. Zamanla parlaklığı soldu, kimse dokunmaz oldu. Bir gün uzak diyarlardan bir derviş geldi; ibriği yıkadı, güneşte parlatıp su doldurdu. İlk yudumu değil, son yudumu aldı; 'Misafir, kendi nasibini en sona saklar,' dedi. Çocuklar merakla sordu, kadınlar ibriğe bakır ustası getirdi. Ertesi gün her evin kapısına küçük birer tas asıldı. Köyün içinden geçenler susuz kalmadı. İbrik, yeniden parıldayan yüzünde köyün gönlünü gösterdi.",
+        "yas_araligi": "6-8",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Shiny copper ewer hanging by a village fountain, dervish polishing it, children watching, Anatolian motif, warm sun",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=copper+ewer+village+fountain+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=copper%20ewer%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/copper-pot"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Kervansarayın Kayıp Anahtarı",
+        "konu": "Bir kervansarayın anahtarı kaybolur; çırak, anahtarın aslında kapıda değil gönüllerde olduğunu anlar.",
+        "hikaye": "Büyük hanın kapısı kapandı, anahtarı da yok oldu. Usta, 'Anahtar yoksa geceyi dışarıda geçiririz,' dedi. Çırak Miraç, hanın her taşını yokladı, kilidin gölgesini hesapladı; bulamadı. Yaşlı bir yolcu fısıldadı: 'Kilit dışarıdaysa anahtar içeridedir.' Miraç han avlusunda unuttuğu bir şeyi hatırladı: selamı. Kapının tokmağına üç kez selam verip, 'Ey yol, ey han, ey misafirlik,' dedi. Kilit içerden bir tık etti; meğer kapı sürgüsü düşmüş, anahtar sadece bir simgeymiş. Usta gülümsedi: 'Bazı kapılar söze açılır.' O gece han doldu taştı, Miraç her tokmak vuruşunda önce selamı koydu.",
+        "yas_araligi": "9-12",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Ancient caravanserai wooden gate at dusk, apprentice touching the knocker respectfully, lock slightly open, mystical warm tones",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=caravanserai+wooden+gate+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=ancient%20gate%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/old-gate"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Hoca ve Gölge Pazarı",
+        "konu": "Hoca, güneşin en tepede olduğu öğle vakti pazarda gölge satmaya kalkan uyanık tüccarı oyuna getirir.",
+        "hikaye": "Yazın en kavurucu gününde pazarın ortasında bir tüccar bağırdı: 'Serin gölge, yarım akçeye!' Bez parçalarını sırıklarla tutuyor, altına girene 'Gölge kiradır,' diyordu. Nasreddin Hoca sırığın altına girdi, serinledi, sonra çıkıp cebinden bir ayna çıkardı. Aynayı güneşe tuttu, tüccarın önüne daha parlak bir ışık düşürdü. 'Ben de güneşi satıyorum,' dedi. Kalabalık kahkahaya boğuldu. Tüccar utanıp sırığını indirdi. Hoca, 'Gölgeyi gölge yapan güneştir; bedava verileni parayla satma,' diye öğüt verdi. O günden sonra pazarın ortasında bir çınar gölgesi herkesin ortak sofrası oldu.",
+        "yas_araligi": "6-8",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Bustling Anatolian bazaar at noon, Nasreddin Hodja holding a mirror reflecting sun, vendor with poles selling shade, humorous folkloric scene",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=Nasreddin+Hodja+bazaar+mirror+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=nasreddin%20hodja%20bazaar%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/anatolian-bazaar"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Halıdaki Gök Haritası",
+        "konu": "Bir dokumacı kız, halısına göğün yıldızlarını işler ve köyde kaybolan yolculara gece yol buldurur.",
+        "hikaye": "Elif dokumayı ninesinden öğrenmiş, her ilmeğe bir yıldızın hikâyesini düğümlemişti. Bir kış, sisin ardında yollar kayboldu; gece yola çıkanlar geri dönemez oldu. Elif, halısını köy meydanına serdi: kuzey yıldızı beyaz iplikle, samanyolu ince maviyle işliydi. 'Göğe bakmayı unutmayın,' dedi. Yolcular, halıya bakıp göğe çevirdi gözlerini; yıldızları halıdan okudular. İlk sabah, uzak köyden gelen bir kadın elinde sıcak ekmekle teşekkür etti. Elif halıyı her gece serdi; yıldızlar halıya inmeye, köyün gönlü göğe yükselmeye devam etti.",
+        "yas_araligi": "9-12",
+        "okuma_suresi_dakika": 6,
+        "kapak_fotografi": {
+          "prompt": "Girl weaver spreading a carpet patterned as the night sky in a village square, people navigating by stars, soft moonlight, Anatolian motifs",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=girl+weaver+carpet+night+sky+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=carpet%20stars%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/turkish-carpet"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Çınar ile Dere'nin Sözü",
+        "konu": "Köydeki kadim çınar ile dere kuraklıkta konuşur; köylü, suyun yoluna taş dizmemeyi öğrenir.",
+        "hikaye": "Yaz uzadıkça dere ince bir ipliğe döndü, çınarın yaprakları sessizce sarardı. Köylüler su yoluna set çekip bahçelerini dolduruyordu. Bir gece rüzgâr çınarı konuşturdu: 'Köküm suyu bekler.' Dere fısıldadı: 'Yolum taşlarla dolu.' Ertesi gün çocuklar taşları sökmeye başladı, büyükler arkalarını getirdi. Suyun sesi çoğalınca çınarın yaprakları alkışladı. Yaşlı muhtar, 'Doğanın dili var; duymayı bilene yeter,' dedi. Kuraklık geçti, köy suyun hakkını öğrendi.",
+        "yas_araligi": "6-8",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Ancient plane tree by a narrow stream in a village, children removing stones from the waterway, golden summer light, folkloric gentle style",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=plane+tree+stream+village+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=stream%20children%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/stream-village"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Gümüş Nal ve Yoldaşlık",
+        "konu": "Göç yolunda düşen bir gümüş nalı bulan çocuk, nallı atın sahibine değil yolun kendisine yoldaş olur.",
+        "hikaye": "Göç kervanının ardında bir gümüş nal parladı. Küçük Zeynep nalı alıp sahibini aradı; sorduğu herkes, 'Bizim değil,' dedi. Bir derviş, 'Belki sahibini değil, yolunu arıyordur,' diye gülümsedi. Zeynep nalı boynuna astı, her zorlu yokuşta ona baktı: 'Yolun demiri, sabrın ışığı.' Haftalar sonra bir at nalı eksik bir atlıya rastladı; nalı uzattı, adam teşekkür etti. Zeynep, 'Asıl yoldaşım nal değil, onu ararken öğrendiğim sabırmış,' dedi. Göç bittiğinde boynunda artık görünmez bir nal vardı: yüreğinin direnci.",
+        "yas_araligi": "6-8",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Child holding a shining silver horseshoe on a migration road, caravan in the background, soft dust light, Anatolian journey scene",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=silver+horseshoe+caravan+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=horseshoe%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/horseshoe"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Yaren Sofrası",
+        "konu": "Aşıkların atışması yarıda kalınca köy, sözün tadını geri getirmek için ortak bir sofra kurar.",
+        "hikaye": "İki âşık, Aliş ve Veysel, meydanda söz atışırken biri kırıldı, diğeri darıldı; sazlar sustu. Köyün anaları, 'Söz acıkınca gönül daralır,' diyerek büyük bir yaren sofrası kurdu. Herkes bir tabak getirdi, en ortadaki boş tabağa kimse dokunmadı. Sofra bitince boş tabak dolmadı; muhtar sordu: 'Niye boş?' Aliş dedi ki: 'Kırdığım söz için.' Veysel ekledi: 'Benim gönlüm için.' İkisi boş tabağı birlikte doldurdu; sazlar yeniden çaldı. O günden sonra köyde her atışma bir lokmayla tatlanır oldu.",
+        "yas_araligi": "12+",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Village night gathering with long table outdoors, two ashiks with saz reconciling, communal dishes, warm lanterns, folkloric atmosphere",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=ashik+anatolian+village+night+table+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=ashik%20saz%20village%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/village-night"
+        }
+      },
+      {
+        "kategori": "Klasik Türk",
+        "isim": "Toprak Testi ve Söz",
+        "konu": "Kırık bir testi, köye su taşırken yolda çiçekler büyütür; çocuk, eksik görünenin bereketini anlar.",
+        "hikaye": "Ayşe’nin testisinin yanağında bir çatlak vardı; suyu yolda damlatır, annesi kızardı. Komşu teyze gülümsedi: 'O damlalar yolun kenarına ektiğim tohumları büyütüyor.' Ertesi sabah Ayşe, testisinin ıslattığı patikada açan renk renk çiçekleri gördü. Eve biraz az su getirdi ama evin önünde bir bahçe çoğaldı. Annesi sustu, gözleri doldu. O günden sonra köyde her kırık eşya, yeni bir iş buldu; eksikler, yeni güzelliklere kapı oldu.",
+        "yas_araligi": "3-5",
+        "okuma_suresi_dakika": 5,
+        "kapak_fotografi": {
+          "prompt": "Child carrying a cracked clay water jug on a village path lined with blooming flowers, morning light, gentle storybook style",
+          "google_image_search_url": "https://www.google.com/search?tbm=isch&q=child+clay+water+jug+flowers+illustration",
+          "openverse_search_url": "https://openverse.org/search/image?q=clay%20jug%20child%20illustration",
+          "unsplash_search_url": "https://unsplash.com/s/photos/clay-pot"
+        }
+      }
+    ],
+    "Dünya Masalları": [],
+    "Kahramanlık": [],
+    "Hayvan": [],
+    "Aşk & Sevgi": [],
+    "Bilgeli": [],
+    "Komik": [],
+    "Çocuk": [],
+    "Öğretici": [],
+    "Mitolojik": [],
+    "Keloğlan": [],
+    "Prenses & Kral": [],
+    "Doğa & Evren": [],
+    "Macera": [],
+    "Arkadaşlık": []
+  }
+}
